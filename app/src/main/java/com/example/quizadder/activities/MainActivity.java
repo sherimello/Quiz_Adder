@@ -1,4 +1,4 @@
-package com.example.quizadder;
+package com.example.quizadder.activities;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -25,6 +25,7 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.quizadder.R;
 import com.example.quizadder.classes.CryptoHandler;
 import com.example.quizadder.classes.QuizData;
 import com.example.quizadder.recycleradapterclasses.QuestionListRecyclerAdapter;

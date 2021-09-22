@@ -18,4 +18,6 @@
     <string name="dummy_question">e.g. who is izumi uchiha?</string>
     <string name="create">create</string>
     <string name="this_is_the_answer">this is the answer</string>
+    <string name="no_squiz_yet">no sQUIZ yet\npress the \'+\' button to add one.</string>
+    <string name="add_a_squiz">add a sQUIZ</string>
 </resources>
