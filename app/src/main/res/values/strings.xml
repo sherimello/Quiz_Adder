@@ -2,7 +2,7 @@
     <string name="app_name">Quiz Adder</string>
     <string name="squiz">sQUIZ</string>
     <string name="s">S</string>
-    <string name="make_a_squiz_id">make a sQUIZ ID:</string>
+    <string name="make_a_squiz">make a sQUIZ:</string>
     <string name="option_1">option 1:</string>
     <string name="option_4">option 4:</string>
     <string name="option_2">option 2:</string>
@@ -16,4 +16,6 @@
     <string name="_0">0</string>
     <string name="question">question:</string>
     <string name="dummy_question">e.g. who is izumi uchiha?</string>
+    <string name="create">create</string>
+    <string name="this_is_the_answer">this is the answer</string>
 </resources>

@@ -4,8 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/QuizAdder/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.22320675105485233" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_1.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_1_white.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_2.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_2_white.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_3.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_3_white.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_4.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/option_4_white.xml" value="0.13518518518518519" />
+        <entry key="..\:/QuizAdder/app/src/main/res/drawable/rounded_bg_for_edittext.xml" value="0.22320675105485233" />
         <entry key="..\:/QuizAdder/app/src/main/res/drawable/rounded_stroked_bg.xml" value="0.15925925925925927" />
-        <entry key="..\:/QuizAdder/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/QuizAdder/app/src/main/res/layout/activity_main.xml" value="0.20717299578059073" />
+        <entry key="..\:/QuizAdder/app/src/main/res/layout/layout_quiz_card.xml" value="0.21012658227848102" />
       </map>
     </option>
   </component>
