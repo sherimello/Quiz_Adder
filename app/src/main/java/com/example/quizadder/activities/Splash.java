@@ -2,9 +2,11 @@ package com.example.quizadder.activities;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
+import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import android.util.Pair;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.OvershootInterpolator;
@@ -81,8 +83,14 @@ public class Splash extends AppCompatActivity {
 
     private void changeActivity() {
         new Handler().postDelayed(() -> {
-            startActivity(new Intent(getApplicationContext(), QuizList.class));
-            finish();
+            final ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(
+                    this,
+                    Pair.create(card1, "card1"),
+                    Pair.create(card2, "card2"),
+                    Pair.create(card3, "card3"));
+            startActivity(new Intent(getApplicationContext(), SignIn.class), options.toBundle());
+            new Handler().postDelayed(this::finish, 2000);
+
         }, 700);
     }
 }

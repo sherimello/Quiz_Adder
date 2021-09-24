@@ -11,6 +11,7 @@
         android:theme="@style/Theme.QuizAdder"
         android:fullBackupContent="true">
         <activity android:name=".activities.MainActivity"/>
+        <activity android:name=".activities.SignIn"/>
         <activity android:name=".activities.QuizList"/>
         <activity
             android:name=".activities.Splash"
